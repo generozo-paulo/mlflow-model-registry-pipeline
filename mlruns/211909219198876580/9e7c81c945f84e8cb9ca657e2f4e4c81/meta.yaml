@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Usuário/Documents/CURRICULO/projects/mlflow-model-registry-pipeline/mlruns/211909219198876580/9e7c81c945f84e8cb9ca657e2f4e4c81/artifacts
+end_time: 1793041035167
+entry_point_name: ''
+experiment_id: '211909219198876580'
+lifecycle_stage: active
+run_id: 9e7c81c945f84e8cb9ca657e2f4e4c81
+run_name: RandomForest_HighRecall
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793041033357
+status: 4
+tags: []
+user_id: Usuário

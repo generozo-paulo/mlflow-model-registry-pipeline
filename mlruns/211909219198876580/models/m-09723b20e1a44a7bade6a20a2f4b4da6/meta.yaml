@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Usuário/Documents/CURRICULO/projects/mlflow-model-registry-pipeline/mlruns/211909219198876580/models/m-09723b20e1a44a7bade6a20a2f4b4da6/artifacts
+creation_timestamp: 1793041059690
+experiment_id: '211909219198876580'
+last_updated_timestamp: 1793041068493
+model_id: m-09723b20e1a44a7bade6a20a2f4b4da6
+model_type: null
+name: model
+source_run_id: b76f214a409d4dfaa8f66f1733567912
+status: 2
+status_message: null

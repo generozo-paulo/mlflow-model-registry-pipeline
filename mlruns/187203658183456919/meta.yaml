@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/Usuário/Documents/CURRICULO/projects/mlflow-model-registry-pipeline/mlruns/187203658183456919
+creation_time: 1793041110878
+effective_trace_archival_retention: null
+experiment_id: '187203658183456919'
+last_update_time: 1793041110878
+lifecycle_stage: active
+name: clinical_mortality_registry
+trace_location: null
+workspace: default

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Usuário/Documents/CURRICULO/projects/mlflow-model-registry-pipeline/mlruns/187203658183456919/9a26551f8ec645229215424f57fb5845/artifacts
+end_time: 1793041127316
+entry_point_name: ''
+experiment_id: '187203658183456919'
+lifecycle_stage: active
+run_id: 9a26551f8ec645229215424f57fb5845
+run_name: GradientBoosting_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793041119587
+status: 3
+tags: []
+user_id: Usuário

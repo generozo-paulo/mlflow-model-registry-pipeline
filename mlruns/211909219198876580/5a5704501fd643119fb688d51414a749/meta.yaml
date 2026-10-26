@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Usuário/Documents/CURRICULO/projects/mlflow-model-registry-pipeline/mlruns/211909219198876580/5a5704501fd643119fb688d51414a749/artifacts
+end_time: 1793041080882
+entry_point_name: ''
+experiment_id: '211909219198876580'
+lifecycle_stage: active
+run_id: 5a5704501fd643119fb688d51414a749
+run_name: LogisticRegression_L2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793041075170
+status: 3
+tags: []
+user_id: Usuário
